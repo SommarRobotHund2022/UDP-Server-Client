@@ -1,0 +1,3 @@
+/home/sommarjobbare/Facial-Recognition/udpcc/build/CMakeFiles/rebuild_cache.dir
+/home/sommarjobbare/Facial-Recognition/udpcc/build/CMakeFiles/edit_cache.dir
+/home/sommarjobbare/Facial-Recognition/udpcc/build/CMakeFiles/UDP_CAM.dir

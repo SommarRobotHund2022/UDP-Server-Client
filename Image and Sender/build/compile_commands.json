@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/sommarjobbare/Facial-Recognition/udpcc/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++  -I/usr/include/opencv4 -I/home/sommarjobbare/Facial-Recognition/udpcc/./sockpp/include -I/home/sommarjobbare/Facial-Recognition/udpcc/./raspicam-0.1.9/src -O3 -DNDEBUG -o CMakeFiles/UDP_CAM.dir/udp_streamer.cc.o -c /home/sommarjobbare/Facial-Recognition/udpcc/udp_streamer.cc",
+  "file": "/home/sommarjobbare/Facial-Recognition/udpcc/udp_streamer.cc"
+}
+]
